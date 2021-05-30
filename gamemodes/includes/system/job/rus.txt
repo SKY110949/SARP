@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(57) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(58) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(59) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(60) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(61) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(62) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(67) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 213: ํๅ๑๎โ๏เไๅํ่ๅ ๒่๏๎โ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(67) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 213: ํๅ๑๎โ๏เไๅํ่ๅ ๒่๏๎โ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(67) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(135) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "playerData"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(135) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(135) : ๎๘่แ๊เ 001: ๎ๆ่ไเ๋๑ ๒๎๊ๅํ ";", ํ๎ ํเ้ไๅํ "]"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(135) : ๎๘่แ๊เ 029: ํๅ๏๐เโ่๋ํ๎ๅ โ๛๐เๆๅํ่ๅ, ๏๐่ํ๒ ํ๎๋
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\job\cocain.pwn(135) : ๔เ๒เ๋ํเ ๎๘่แ๊เ 107: ๑๋่๘๊๎์ ์ํ๎ใ๎ ๎๘่แ๎๊ ํเ ๎ไํ๎้ ๑๒๐๎๊ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:10.

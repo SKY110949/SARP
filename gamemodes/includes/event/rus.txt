@@ -1,0 +1,27 @@
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\dynamic_call.inc(59) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "string" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_utils.inc(701) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "string" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_utils.inc(951) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "string" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_utils.inc(994) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "string" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_utils.inc(1012) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "string" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(32) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "stop"
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(32) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(52) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(53) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(62) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(63) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(74) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(75) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(103) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(104) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(155) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "playerData"
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(176) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(176) : ๎๘่แ๊เ 001: ๎ๆ่ไเ๋๑ ๒๎๊ๅํ ";", ํ๎ ํเ้ไๅํ "]"
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(176) : ๎๘่แ๊เ 029: ํๅ๏๐เโ่๋ํ๎ๅ โ๛๐เๆๅํ่ๅ, ๏๐่ํ๒ ํ๎๋
+C:\Users\Administrator\Desktop\GTA Fun4You 1.2.9\GTA Fun4You 1.2.9\samp-fun4you\gamemodes\includes\event\race.pwn(176) : ๔เ๒เ๋ํเ ๎๘่แ๊เ 107: ๑๋่๘๊๎์ ์ํ๎ใ๎ ๎๘่แ๎๊ ํเ ๎ไํ๎้ ๑๒๐๎๊ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:13.

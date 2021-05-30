@@ -1,0 +1,11 @@
+{
+    "files.encoding": "windows874",
+    "Lua.diagnostics.disable": [
+        "empty-block"
+    ],
+    "Lua.diagnostics.globals": [
+        "alive",
+        "Config",
+        "GetPlayerIdentifiers"
+    ]
+}

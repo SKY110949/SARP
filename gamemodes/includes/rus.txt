@@ -1,0 +1,33 @@
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(3) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(5) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(11) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(15) : ๎๘่แ๊เ 054: ํๅ๑๎๎๒โๅ๒๑๒โ๓๙เ ็เ๊๐๛โเ๙เ ๑๊๎แ๊เ ("}")
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(17) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(19) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(24) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(35) : ๎๘่แ๊เ 054: ํๅ๑๎๎๒โๅ๒๑๒โ๓๙เ ็เ๊๐๛โเ๙เ ๑๊๎แ๊เ ("}")
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(36) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(42) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(43) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(47) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(50) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(60) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(61) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(62) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(63) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(67) : ๎๘่แ๊เ 021: ่ไๅํ๒่๔่๊เ๒๎๐ "SetPlayerVirtualWorld" ๓ๆๅ ๎แ๚โ๋ๅํ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(70) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(74) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(79) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(85) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(88) : ๎๘่แ๊เ 001: ๎ๆ่ไเ๋๑ ๒๎๊ๅํ ";", ํ๎ ํเ้ไๅํ "-identifier-"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(89) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(91) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\timers.pwn(93) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:26.

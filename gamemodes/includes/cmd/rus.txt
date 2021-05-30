@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_cell.inc(580) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_cell.inc(609) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_cell.inc(676) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\y_cell.inc(701) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc(759) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\disasm.inc(210) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Coding\y_va/impl.inc(672) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Coding\y_va/impl.inc(672) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "y" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Coding\y_va/impl.inc(677) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "x" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Coding\y_va/impl.inc(677) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 219: ๏ๅ๐ๅ์ๅํํเ "y" ๓ๆๅ ๎แ๚โ๋ๅํเ โ แ๎๋ๅๅ ใ๋๎แเ๋ํ๎้ ็๎ํๅ โ่ไ่์๎๑๒่
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\cmd\admin.pwn(43) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\cmd\admin.pwn(44) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\cmd\admin.pwn(44) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\cmd\admin.pwn(44) -- (53) : ๎๘่แ๊เ 025: ็เใ๎๋๎โ๎๊ ๔๓ํ๊๖่่ ๎๒๋่๗เๅ๒๑ ๎๒ ๏๐๎๒๎๒่๏เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\cmd\admin.pwn(44) -- (53) : ๔เ๒เ๋ํเ ๎๘่แ๊เ 107: ๑๋่๘๊๎์ ์ํ๎ใ๎ ๎๘่แ๎๊ ํเ ๎ไํ๎้ ๑๒๐๎๊ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:5.

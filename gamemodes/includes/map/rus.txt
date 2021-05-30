@@ -1,0 +1,33 @@
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(41) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(42) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(43) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(44) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(45) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(46) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(47) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(48) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(49) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(50) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(51) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(52) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(53) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(54) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(55) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(56) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(57) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(58) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(61) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(62) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "SetDynamicObjectMaterial"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(66) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(67) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(68) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(69) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(70) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\map\lsrp_map.pwn(71) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:26.

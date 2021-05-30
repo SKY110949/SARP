@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(12) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "RELEASED"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(16) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "RELEASED"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(77) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "ClearChatBox"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(79) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "playerData"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(79) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(79) : ๎๘่แ๊เ 001: ๎ๆ่ไเ๋๑ ๒๎๊ๅํ ";", ํ๎ ํเ้ไๅํ "]"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(79) : ๎๘่แ๊เ 029: ํๅ๏๐เโ่๋ํ๎ๅ โ๛๐เๆๅํ่ๅ, ๏๐่ํ๒ ํ๎๋
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\core\tutorial.pwn(79) : ๔เ๒เ๋ํเ ๎๘่แ๊เ 107: ๑๋่๘๊๎์ ์ํ๎ใ๎ ๎๘่แ๎๊ ํเ ๎ไํ๎้ ๑๒๐๎๊ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:7.

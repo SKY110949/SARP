@@ -1,0 +1,29 @@
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(7) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(8) : ๎๘่แ๊เ 017: ํๅ๎แ๚โ๋ๅํํ๛้ ๑่์โ๎๋ "CreateDynamicObject"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(14) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(14) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(14) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(14) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(15) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(15) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(15) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(15) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 202: ๊๎๋่๗ๅ๑๒โ๎ เ๐ใ๓์ๅํ๒๎โ ํๅ ๑๎โ๏เไเๅ๒ ๑ ๎แ๚โ๋ๅํ่ๅ์
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(18) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(20) : ๎๘่แ๊เ 001: ๎ๆ่ไเ๋๑ ๒๎๊ๅํ ";", ํ๎ ํเ้ไๅํ "-identifier-"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(22) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(24) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) : ๏๐ๅไ๓๏๐ๅๆไๅํ่ๅ 215: โ๛๐เๆๅํ่ๅ ํๅ ่์ๅๅ๒ ๔๔ๅ๊๒เ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) : ๎๘่แ๊เ 001: ๎ๆ่ไเ๋๑ ๒๎๊ๅํ ";", ํ๎ ํเ้ไๅํ ")"
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) -- (32) : ๎๘่แ๊เ 010: ํๅโๅ๐ํเ ๔๓ํ๊๖่ ่๋่ ๎แ๚โ๋ๅํ่ๅ
+C:\Users\Administrator\Desktop\S2D new\gamemodes\includes\system\gate.pwn(26) -- (32) : ๔เ๒เ๋ํเ ๎๘่แ๊เ 107: ๑๋่๘๊๎์ ์ํ๎ใ๎ ๎๘่แ๎๊ ํเ ๎ไํ๎้ ๑๒๐๎๊ๅ
+
+ส๎์๏่๋๖่ ๎๑๒เํ๎โ๋ๅํเ.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+ฮ๘่แ๎๊:10.

@@ -1,0 +1,2 @@
+AddSimpleModel(-1, 19142, -1001, "armour.dff", "armour.txd");
+AddSimpleModel(-1, 18637, -1002, "LSPDArmour.dff", "LSPDArmour.txd");
