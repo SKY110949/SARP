@@ -4,8 +4,8 @@ hook OnGameModeInit()
 {
     // Mine System
     Create3DTextLabel("{FFFF00}ขุดเหมืองแร่\n{FFFFFF}พิมพ์ {FFFF00}/mine{FFFFFF} เพื่อเริ่มต้นขุดเหมืองแร่",0x008080FF,595.7678,921.1524,-39.9265,30.0,0,1);
-    Create3DTextLabel("{FFFF00}สถานที่แปรรูปแร่\n{FFFFFF}พิมพ์ {FFFF00}/ptze{FFFFFF} เพื่อเริ่มต้นการแปรรูป",0x008080FF,2573.5747,-2219.6809,13.5469,30.0,0,1);
-    Create3DTextLabel("{FFFF00}โรงรับซื้อแร่\n{FFFFFF}พิมพ์ {FFFF00}/sellore{FFFFFF} เพื่อขายแร่ของคุณ",0x008080FF,2549.5002,-2219.6807,13.5469,30.0,0,1);
+    Create3DTextLabel("{FFFF00}สถานที่แปรรูปแร่\n{FFFFFF}พิมพ์ {FFFF00}/ptze{FFFFFF} เพื่อเริ่มต้นการแปรรูป",0x008080FF,637.7542, 832.2132, -42.9609,30.0,0,1);
+    Create3DTextLabel("{FFFF00}โรงรับซื้อแร่\n{FFFFFF}พิมพ์ {FFFF00}/sellore{FFFFFF} เพื่อขายแร่ของคุณ",0x008080FF,600.9393, 867.9490, -42.9609,30.0,0,1);
 
     // Weapon System
     Create3DTextLabel("ตลาดมืด\nพิมพ์ /buyweapon เพื่อเลือกซื้ออาวุธผิดกฎหมาย",0xFFFFFFFF,2869.6001, 857.5617, 10.7500,30.0,0,1);
@@ -16,7 +16,7 @@ hook OnGameModeInit()
 
 CMD:minejob(playerid, params[])
 {
-    return SendClientMessage(playerid, COLOR_GRAD1, "คำสั่งสำหรับอาชีพขุดเหมือง : /mine, /sellore, /ore, /ptze , /gotosellore, /gotoptze");
+    return SendClientMessage(playerid, COLOR_GRAD1, "คำสั่งสำหรับอาชีพขุดเหมือง : /mine, /sellore, /ore, ptze");
 }
 
 CMD:mine(playerid, params[])
@@ -27,7 +27,7 @@ CMD:mine(playerid, params[])
 	if (BitFlag_Get(gPlayerBitFlag[playerid], PLAYER_MINING))
 	{
 	    BitFlag_Off(gPlayerBitFlag[playerid], PLAYER_MINING);
-	    SendClientMessage(playerid, COLOR_YELLOW, "คุณได้หยุดการทำงานเป็นพนักงานขุดแร่เรียบร้อยแล้ว (/gotopatz) เพื่อไปที่จุดเเปรรูป (/gotosellore) เพื่อไปจุดขาย");
+	    SendClientMessage(playerid, COLOR_YELLOW, "คุณได้หยุดการทำงานเป็นพนักงานขุดแร่เรียบร้อยแล้ว");
 	}
 	else
 	{
@@ -41,7 +41,7 @@ CMD:ptze(playerid, params[])
 {
 	new ore = 1 + random(3),amount;
 
-	if (!IsPlayerInRangeOfPoint(playerid, 3.0, 2573.5747,-2219.6809,13.5469))
+	if (!IsPlayerInRangeOfPoint(playerid, 3.0, 637.7542, 832.2132, -42.9609))
 	    return SendClientMessage(playerid, COLOR_GRAD1, "คุณไม่ได้อยู่สถานที่แปรรูป");
 
 	if (sscanf(params, "d", amount))
@@ -53,7 +53,7 @@ CMD:ptze(playerid, params[])
     if (amount <= 0 || amount > 100)
         return SendClientMessage(playerid, COLOR_GRAD1, "จำนวนต้องไม่น้อยกว่า 0 และมากกว่า 100");
 
-    if (playerData[playerid][pOre] == 0)
+    if (playerData[playerid][pIrons] == 0)
         return SendClientMessage(playerid, COLOR_GRAD1, "ขออภัย, คุณมีแร่ไม่เพียงพอต่อการแปรรูป (ต้องมีมากกว่า 1)");
         
     switch(ore)
@@ -99,7 +99,7 @@ CMD:sellore(playerid, params[])
         amount,
         price;
 
-	if (!IsPlayerInRangeOfPoint(playerid, 3.0, 2549.5002,-2219.6807,13.5469))
+	if (!IsPlayerInRangeOfPoint(playerid, 3.0, 600.9393, 867.9490, -42.9609))
 	    return SendClientMessage(playerid, COLOR_GRAD1, "คุณไม่ได้อยู่โรงรับซื้อแร่");
 
 	if (sscanf(params, "dd", ore, amount))
@@ -365,19 +365,3 @@ ptask CheckMoneyHack[1000](playerid)
         }
     }
 }
-
-CMD:gotopatz(playerid, params[])
-{
-    SetPlayerCheckpoint(playerid, 2549.5002,-2219.6807,13.5469, 4.0);
-    SendClientMessage(playerid, COLOR_GRAD1, " พิกัดจุดเเปรรูปเเร่ Los Santos");
-
-    return 1;
-}    
-
-CMD:gotosellore(playerid, params[])
-{
-    SetPlayerCheckpoint(playerid, 2573.5747,-2219.6809,13.5469, 4.0);
-    SendClientMessage(playerid, COLOR_GRAD1, " พิกัดจุดขายเเร่ Los Santos");
-
-    return 1;
-}    

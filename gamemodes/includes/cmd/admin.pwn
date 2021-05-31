@@ -1007,7 +1007,7 @@ CMD:forcespawn(playerid, params[])
 	gIsInjuredMode{targetid} = 
 	playerData[targetid][pMedicBill] = 
 	gIsDeathMode{targetid} = false;
-	playerData[targetid][pHealth]=25.0;
+	playerData[targetid][pHealth]=100;
 	Damage_Reset(targetid);
 	BitFlag_Off(gPlayerBitFlag[targetid], IS_SPAWNED);
 	SpawnPlayer(targetid);

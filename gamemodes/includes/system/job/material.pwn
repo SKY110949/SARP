@@ -5,8 +5,8 @@ hook OnGameModeInit()
     CreateDynamicPickup(1239, 2, 1026.2266, 2279.7322, 10.8203);
     CreateDynamic3DTextLabel("โรงงานผลิตดินปืนเถื่อน\nพิมพ์ /buymats เพื่อซื้อดินปืนจากโรงงาน", -1, 1026.2266, 2279.7322, 10.8203, 10.0, INVALID_PLAYER_ID, INVALID_VEHICLE_ID, 0, 0, 0);
 
-    CreateDynamicPickup(1239, 2, 1405.7090,-1298.5753,13.5441);
-    CreateDynamic3DTextLabel("จุดส่งดินปืน Main Street\nพิมพ์ /dropmats เพื่อรับดินปืนเป็นของตอบแทน", -1, 1405.7090,-1298.5753,13.5441, 10.0, INVALID_PLAYER_ID, INVALID_VEHICLE_ID, 0, 0, 0);
+    CreateDynamicPickup(1239, 2, -256.6272, -2190.7087, 28.9963);
+    CreateDynamic3DTextLabel("บ้านร้างริมทะเล Los Santos\nพิมพ์ /dropmats เพื่อรับดินปืนเป็นของตอบแทน", -1, -256.6272, -2190.7087, 28.9963, 10.0, INVALID_PLAYER_ID, INVALID_VEHICLE_ID, 0, 0, 0);
 
     //CreateDynamicPickup(1239, 2, 2872.1440, 945.7526, 10.7500);
     //CreateDynamic3DTextLabel("สถานที่ประกอบอาวุธ\nพิมพ์ /createweapon เพื่อสร้างอาวุธปืน", COLOR_YELLOW,  2872.1440, 945.7526, 10.7500, 10.0, INVALID_PLAYER_ID, INVALID_VEHICLE_ID, 0, 0, 0);
@@ -34,7 +34,7 @@ CMD:buymats(playerid, params[])
 
         //playerData[playerid][pMaterials] = 1;
 
-        SendClientMessage(playerid, COLOR_GRAD1, "  คุณได้รับดินปืนมาจำนวน 30 ชิ้น, นำไปยังจุดส่งดินปืน Main Street เพื่อรับดินปืนของคุณ (/gotomats)");
+        SendClientMessage(playerid, COLOR_GRAD1, "  คุณได้รับดินปืนมาจำนวน 30 ชิ้น, นำไปยังบ้านร้างริมทะเล Los Santos เพื่อรับดินปืนของคุณ (/gotomats)");
         
         SendNearbyMessage(playerid, 30.0, COLOR_PURPLE, "** พ่อค้าขายดินปืน : ได้นำ Package ที่มีดินปืน 10 อันให้กับ %s", ReturnRealName(playerid));
         SendNearbyMessage(playerid, 30.0, COLOR_PURPLE, "** %s ได้หยิบ Package จากพ่อค้าขายดินปืนและเหน็บไว้ที่ตัวของเขา", ReturnRealName(playerid));
@@ -48,11 +48,11 @@ CMD:dropmats(playerid, params[])
 	if (IsPlayerInAnyVehicle(playerid))
 		return SendClientMessage(playerid, COLOR_GRAD1, "   คุณต้องลงจากรถ!");
 
-    if (!IsPlayerInRangeOfPoint(playerid, 5.0, 1405.7090,-1298.5753,13.5441)) 
-        return SendClientMessage(playerid, COLOR_GRAD1, "คุณไม่ได้อยู่ที่จุดส่งดินปืน Main Street");
+    if (!IsPlayerInRangeOfPoint(playerid, 3.0, -256.6272, -2190.7087, 28.9963)) 
+        return SendClientMessage(playerid, COLOR_GRAD1, "คุณไม่ได้อยู่ที่บ้านร้างริมทะเล Los Santos");
 
     if (playerData[playerid][pCPMaterials] == 0)
-        return SendClientMessage(playerid, COLOR_GRAD1, "คุณไม่ได้มีดินปืนอยู่ในตัว, โปรดซื้อดินปืนก่อนจะส่งดินปืนให้ที่จุดส่งดินปืน Main Street");
+        return SendClientMessage(playerid, COLOR_GRAD1, "คุณไม่ได้มีดินปืนอยู่ในตัว, โปรดซื้อดินปืนก่อนจะส่งดินปืนให้ที่บ้านร้างริมทะเล Los Santos");
 
     if (playerData[playerid][pCPMaterials] == 3)
     {
@@ -131,31 +131,31 @@ CMD:give(playerid, params[])
             return 1; 
         }
 
-	    if(strcmp(giveSz, "Ore", true) == 0) {
+	    if(strcmp(giveSz, "ore", true) == 0) {
 
 	        if (playerData[playerid][pPlayingHours] < 2)
 	    		return SendClientMessage(playerid, COLOR_GRAD1, "   คุณต้องมีชั่วโมงออนไลน์มากกว่า 2 ชั่วโมง");
 
             if (playerData[playerid][pOre] < amount)
-                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่ได้มี Irons มากถึงขนาดนั้น");
+                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่ได้มี Ore มากถึงขนาดนั้น");
 
             if (targetID == playerid)
-                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่สามารถให้ Irons กับตัวเองได้");
+                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่สามารถให้ Ore กับตัวเองได้");
 
             if (amount < 1)
                 return SendClientMessage(playerid, COLOR_GRAD1, "   คุณต้องระบุจำนวนมากกว่า 1");
 
             if (amount > 400)
             {
-                format(gString, sizeof(gString), "AdmWarn: %s ได้มอบ Irons ให้ %s เป็นจำนวน %d", ReturnRealName(playerid), ReturnRealName(targetID), amount);
+                format(gString, sizeof(gString), "AdmWarn: %s ได้มอบ Ore ให้ %s เป็นจำนวน %d", ReturnRealName(playerid), ReturnRealName(targetID), amount);
                 SendAdminMessage(COLOR_YELLOW, CMD_ADM_3, gString);
             }
 
-            playerData[playerid][pIrons] -= amount;
-            playerData[targetID][pIrons] += amount;
+            playerData[playerid][pOre] -= amount;
+            playerData[targetID][pOre] += amount;
 
-            SendClientMessageEx(playerid, COLOR_YELLOW, "คุณได้ให้ Irons จำนวน %d ให้กับ %s", amount, ReturnRealName(targetID));
-            SendClientMessageEx(targetID, COLOR_YELLOW, "คุณได้รับ Irons จำนวน %d จาก %s", amount, ReturnRealName(targetID));
+            SendClientMessageEx(playerid, COLOR_YELLOW, "คุณได้ให้ Ore จำนวน %d ให้กับ %s", amount, ReturnRealName(targetID));
+            SendClientMessageEx(targetID, COLOR_YELLOW, "คุณได้รับ Ore จำนวน %d จาก %s", amount, ReturnRealName(targetID));
 
 		    SendNearbyMessage(playerid, 25.0, COLOR_PURPLE, "> %s ได้หยิบแร่เหล็กจำนวน %d แล้วมอบให้กับ %s", ReturnRealName(playerid), amount, ReturnRealName(targetID));
 		    SendNearbyMessage(targetID, 25.0, COLOR_PURPLE, "> %s ได้รับแร่เหล็กจากมือของ %s เป็นจำนวน %d", ReturnRealName(targetID), ReturnRealName(playerid), amount);
@@ -195,31 +195,31 @@ CMD:give(playerid, params[])
             return 1; 
         }
 
-	    if(strcmp(giveSz, "Irons", true) == 0) {
+	    if(strcmp(giveSz, "irons", true) == 0) {
 
 	        if (playerData[playerid][pPlayingHours] < 2)
 	    		return SendClientMessage(playerid, COLOR_GRAD1, "   คุณต้องมีชั่วโมงออนไลน์มากกว่า 2 ชั่วโมง");
 
             if (playerData[playerid][pIrons] < amount)
-                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่ได้มี Ore มากถึงขนาดนั้น");
+                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่ได้มี Irons มากถึงขนาดนั้น");
 
             if (targetID == playerid)
-                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่สามารถให้ Ore กับตัวเองได้");
+                return SendClientMessage(playerid, COLOR_GRAD1, "   คุณไม่สามารถให้ Irons กับตัวเองได้");
 
             if (amount < 1)
                 return SendClientMessage(playerid, COLOR_GRAD1, "   คุณต้องระบุจำนวนมากกว่า 1");
 
             if (amount > 400)
             {
-                format(gString, sizeof(gString), "AdmWarn: %s ได้มอบ Ore ให้ %s เป็นจำนวน %d", ReturnRealName(playerid), ReturnRealName(targetID), amount);
+                format(gString, sizeof(gString), "AdmWarn: %s ได้มอบ Irons ให้ %s เป็นจำนวน %d", ReturnRealName(playerid), ReturnRealName(targetID), amount);
                 SendAdminMessage(COLOR_YELLOW, CMD_ADM_3, gString);
             }
 
-            playerData[playerid][pOre] -= amount;
-            playerData[targetID][pOre] += amount;
+            playerData[playerid][pIrons] -= amount;
+            playerData[targetID][pIrons] += amount;
 
-            SendClientMessageEx(playerid, COLOR_YELLOW, "คุณได้ให้ Ore จำนวน %d ให้กับ %s", amount, ReturnRealName(targetID));
-            SendClientMessageEx(targetID, COLOR_YELLOW, "คุณได้รับ Ore จำนวน %d จาก %s", amount, ReturnRealName(targetID));
+            SendClientMessageEx(playerid, COLOR_YELLOW, "คุณได้ให้ Irons จำนวน %d ให้กับ %s", amount, ReturnRealName(targetID));
+            SendClientMessageEx(targetID, COLOR_YELLOW, "คุณได้รับ Irons จำนวน %d จาก %s", amount, ReturnRealName(targetID));
 
 		    SendNearbyMessage(playerid, 25.0, COLOR_PURPLE, "> %s ได้หยิบแร่ที่ยังไม่ผ่านการแปรรูปจำนวน %d แล้วมอบให้กับ %s", ReturnRealName(playerid), amount, ReturnRealName(targetID));
 		    SendNearbyMessage(targetID, 25.0, COLOR_PURPLE, "> %s ได้รับแร่ที่ยังไม่ผ่านการแปรรูปจากมือของ %s เป็นจำนวน %d", ReturnRealName(targetID), ReturnRealName(playerid), amount);
@@ -266,8 +266,8 @@ CMD:give(playerid, params[])
 
 CMD:gotomats(playerid, params[])
 {
-    SetPlayerCheckpoint(playerid, 1405.7090,-1298.5753,13.5441, 4.0);
-    SendClientMessage(playerid, COLOR_GRAD1, "  จุดพิกัดของที่ส่งดินปืน Main Street");
+    SetPlayerCheckpoint(playerid, -256.6272, -2190.7087, 28.9963, 4.0);
+    SendClientMessage(playerid, COLOR_GRAD1, "  จุดพิกัดของบ้านร้างริมทะเล Los Santos");
 
     return 1;
 }
